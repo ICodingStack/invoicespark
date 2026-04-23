@@ -5,6 +5,8 @@
 ![InvoiceSpark Preview](assets/preview.png)
 
 ---
+[🚀 **Live Demo**](https://icodingstack.github.io/invoicespark) 
+• [📥 Download ZIP](https://github.com/ICodingStack/invoicespark/archive/refs/heads/main.zip)
 
 ## Features
 
@@ -96,4 +98,4 @@ MIT — free to use, modify, and distribute. See [LICENSE](LICENSE).
 
 ---
 
-Made with ✦ by InvoiceSpark contributors
+**Made with ❤️ by [BlackBirdo](https://NlackBirdo)**
