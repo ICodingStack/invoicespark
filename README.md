@@ -5,8 +5,7 @@
 ![InvoiceSpark Preview](assets/preview.png)
 
 ---
-[🚀 Live Demo](https://icodingstack.github.io/invoicespark){:target="_blank" rel="noopener noreferrer"}
-• [📥 Download ZIP](https://github.com/ICodingStack/invoicespark/archive/refs/heads/main.zip){:target="_blank" rel="noopener noreferrer"}
+[🚀 **Live Demo**](https://icodingstack.github.io/invoicespark){:target="_blank" rel="noopener noreferrer"} • [📥 Download ZIP](https://github.com/ICodingStack/invoicespark/archive/refs/heads/main.zip)
 
 ## Features
 
