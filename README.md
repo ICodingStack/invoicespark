@@ -5,8 +5,8 @@
 ![InvoiceSpark Preview](assets/preview.png)
 
 ---
-[🚀 **Live Demo**](https://icodingstack.github.io/invoicespark) 
-• [📥 Download ZIP](https://github.com/ICodingStack/invoicespark/archive/refs/heads/main.zip)
+[🚀 Live Demo](https://icodingstack.github.io/invoicespark){:target="_blank" rel="noopener noreferrer"}
+• [📥 Download ZIP](https://github.com/ICodingStack/invoicespark/archive/refs/heads/main.zip){:target="_blank" rel="noopener noreferrer"}
 
 ## Features
 
@@ -98,4 +98,4 @@ MIT — free to use, modify, and distribute. See [LICENSE](LICENSE).
 
 ---
 
-**Made with ❤️ by [BlackBirdo](https://NlackBirdo)**
+**Made with ❤️ by [BlackBirdo](https://NlackBirdo){:target="_blank" rel="noopener noreferrer"}**
