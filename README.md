@@ -97,4 +97,4 @@ MIT — free to use, modify, and distribute. See [LICENSE](LICENSE).
 
 ---
 
-**Made with ❤️ by [BlackBirdo](https://NlackBirdo){:target="_blank" rel="noopener noreferrer"}**
+**Made with ❤️ by [BlackBirdo](https://BlackBirdo.com)**
