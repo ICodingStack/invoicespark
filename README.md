@@ -31,7 +31,7 @@
 3. No build step, no server, no dependencies to install
 
 ```bash
-git clone https://github.com/yourusername/invoicespark.git
+git clone https://github.com/ICodingStack/invoicespark.git
 cd invoicespark
 open index.html
 ```
